@@ -2,7 +2,7 @@
 # Date: 
 
 ### AIM:
-tO perform log transformation on international airline passenger data.
+To perform log transformation on international airline passenger data.
 ### ALGORITHM:
 1. Import the required packages like pandas and numpy
 2. Read the data using the pandas
