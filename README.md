@@ -12,7 +12,7 @@ To perform log transformation on international airline passenger data.
 ### PROGRAM:
 
 
-###OUTPUT:
+### OUTPUT:
 
 
 BEFORE LOG TRANSFORMATION:
