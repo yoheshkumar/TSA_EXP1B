@@ -1,4 +1,4 @@
-# Exp.no: 03                     IMPLEMENTATION OF LOG TRANSFORMATION
+# Ex.No: 03                     IMPLEMENTATION OF LOG TRANSFORMATION
 # Date: 
 
 ### AIM:
