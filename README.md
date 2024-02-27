@@ -1,4 +1,4 @@
-# Ex.No: 03                     IMPLEMENTATION OF LOG TRANSFORMATION
+# Ex.No: 01B                     CONVERSION OF NON STATIONARY TO STATIONARY DATA
 # Date: 
 
 ### AIM:
