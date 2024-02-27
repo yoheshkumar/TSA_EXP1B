@@ -1,4 +1,4 @@
-# Ex.No: 01B                     CONVERSION OF NON STATIONARY TO STATIONARY DATA
+# Ex.No: 1B                     CONVERSION OF NON STATIONARY TO STATIONARY DATA
 # Date: 
 
 ### AIM:
