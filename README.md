@@ -2,7 +2,7 @@
 # Date: 30/08/24
 
 ### AIM:
-To perform regular differncing,seasonal adjustment and log transformatio on international airline passenger data
+To perform regular differncing,seasonal adjustment and log transformation on stock data
 ### ALGORITHM:
 1. Import the required packages like pandas and numpy
 2. Read the data using the pandas
@@ -67,5 +67,4 @@ for title, column in columns_to_plot.items():
 
 
 ### RESULT:
-Thus we have created the python code for the conversion of non stationary to stationary data on international airline passenger
-data.
+Thus we have created the python code for the conversion of non stationary to stationary data on stock data
